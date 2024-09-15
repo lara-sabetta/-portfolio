@@ -53,13 +53,8 @@ sections:
     variant: variant-b
     title: 'Me contacter '
     subtitle: ''
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: |
+      ![](blob:https://create.netlify.com/9fe4c669-8ca0-42b5-8ad4-2f253b4713a5)
     elementId: ''
     styles:
       self:
