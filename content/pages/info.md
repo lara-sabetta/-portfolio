@@ -150,7 +150,7 @@ sections:
       - type: Label
         label: HTML
       - type: Label
-        label: React
+        label: CSS
       - type: Label
         label: Microsoft Office
       - type: Label
