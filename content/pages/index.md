@@ -48,33 +48,6 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-  - type: TextSection
-    colors: colors-a
-    variant: variant-b
-    title: 'Me contacter '
-    subtitle: ''
-    text: |+
-      <iclass="fi fi-rr-phone-call"></i>
-
-
-
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
   - type: DividerSection
     title: Divider
     elementId: ''
