@@ -1,6 +1,6 @@
 ---
 type: ProjectFeedLayout
-title: Motivationq
+title: Motivations
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
