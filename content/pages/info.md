@@ -152,7 +152,7 @@ sections:
       - type: Label
         label: CSS
       - type: Label
-        label: Microsoft Office
+        label: 'Javascript '
       - type: Label
         label: Next.js
       - type: Label
