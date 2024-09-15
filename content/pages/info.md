@@ -154,7 +154,7 @@ sections:
       - type: Label
         label: 'Javascript '
       - type: Label
-        label: Next.js
+        label: 'Excel '
       - type: Label
         label: Netlify
       - type: Label
