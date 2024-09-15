@@ -1,6 +1,6 @@
 ---
 type: ProjectFeedLayout
-title: Motivations
+title: 'Pourquoi moi ? '
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
