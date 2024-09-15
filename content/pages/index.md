@@ -53,8 +53,11 @@ sections:
     variant: variant-b
     title: 'Me contacter '
     subtitle: ''
-    text: |
-      ![](blob:https://create.netlify.com/9fe4c669-8ca0-42b5-8ad4-2f253b4713a5)
+    text: |+
+      <iclass="fi fi-rr-phone-call"></i>
+
+
+
     elementId: ''
     styles:
       self:
