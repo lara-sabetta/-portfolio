@@ -100,7 +100,7 @@ topSections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: The Section Title
+    title: À la recherche d’un stage rémunéré en développement web front-end
     text: >
       Hello ! Moi, c’est Lara, j’ai 24 ans et je suis passionnée par tout ce qui
       touche au web, au gaming, à la danse, et au dessin sur iPad. Actuellement
