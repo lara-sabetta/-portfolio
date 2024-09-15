@@ -93,26 +93,27 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
+        text: |+
           **Current**
 
-          * freelance @freelance.me
+          *   Formation IFAPME en développement web 
 
-          **2018-2021**
+          **2023 - 2024**
 
-          * fullstack at this startup
+          *   Bachelier en E-Business 
 
-          **2015**
+          **2021 - 2023** 
 
-          * senior front-end at this place
+          *   Agent commercial dans la vente de matériel et nutrition sportive 
 
-          **2013**
+          **2018 - 2020** 
 
-          * intern developer at a big company
+          *   Étudiante polyvalente chez Pizza Hut 
 
-          **2011**
+          **2019** 
 
-          * flipping burgers
+          *   Obtention du CESS 
+
         styles:
           self:
             textAlign: left
