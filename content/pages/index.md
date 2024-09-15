@@ -17,11 +17,10 @@ sections:
     subtitle: >-
       Actuellement en début de formation en développement web front-end à
       l'IFAPME, je suis à la recherche d'un stage pour mettre en pratique mes
-      compétences. J'ai déjà acquis des bases solides en développement web grâce
-      à une année d'études en bachelier e-business, ce qui m'a permis de
-      développer un intérêt particulier pour le front-end. Je suis motivé(e) à
-      approfondir mes connaissances et à contribuer activement à des projets
-      concrets.
+      compétences. J'ai déjà acquis des bases en développement web grâce à une
+      année d'études en bachelier e-business, ce qui m'a permis de développer un
+      intérêt particulier pour le front-end. Je suis motivé(e) à approfondir mes
+      connaissances et à contribuer activement à des projets concrets.
     styles:
       self:
         height: auto
