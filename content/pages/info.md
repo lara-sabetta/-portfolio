@@ -160,7 +160,7 @@ sections:
       - type: Label
         label: Procreate
       - type: Label
-        label: C++
+        label: Photoshop
       - type: Label
         label: Swift
   - type: DividerSection
