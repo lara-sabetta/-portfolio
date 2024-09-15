@@ -15,7 +15,7 @@ sections:
     backgroundSize: full
     title: Bienvenue sur mon curriculum vitae
     subtitle: >-
-      Actuellement en début de formation en développement web front-end à
+      Actuellement au début de ma formation en développement web front-end à
       l'IFAPME, je suis à la recherche d'un stage pour mettre en pratique mes
       compétences. J'ai déjà acquis des bases en développement web grâce à une
       année d'études en bachelier e-business, ce qui m'a permis de développer un
