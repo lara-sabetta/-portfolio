@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'Bonjour, je m''appelle Lara ! '
+    title: Bienvenue sur mon curriculum vitae
     subtitle: >-
       Actuellement en début de formation en développement web front-end à
       l'IFAPME, je suis à la recherche d'un stage pour mettre en pratique mes
