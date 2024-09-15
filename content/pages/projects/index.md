@@ -31,6 +31,17 @@ styles:
     textAlign: left
 bottomSections: []
 topSections:
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: full
+        padding:
+          - pt-36
+          - pb-36
+        justifyContent: center
+        borderWidth: 1
   - type: TextSection
     colors: colors-f
     variant: variant-a
