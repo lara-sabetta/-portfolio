@@ -94,25 +94,25 @@ sections:
       - type: FeaturedItem
         subtitle: 'Experience:'
         text: |+
-          **Current**
+          **Actuellement** 
 
-          *   Formation IFAPME en développement web 
+          *   Formation IFAPME en développement web
 
           **2023 - 2024**
 
-          *   Bachelier en E-Business 
+          *   Bachelier en E-Business
 
-          **2021 - 2023** 
+          **2021 - 2023**
 
-          *   Agent commercial dans la vente de matériel et nutrition sportive 
+          *   Agent commercial dans la vente de matériel et nutrition sportive
 
-          **2018 - 2020** 
+          **2018 - 2020**
 
-          *   Étudiante polyvalente chez Pizza Hut 
+          *   Étudiante polyvalente chez Pizza Hut
 
-          **2019** 
+          **2019**
 
-          *   Obtention du CESS 
+          *   Obtention du CESS
 
         styles:
           self:
