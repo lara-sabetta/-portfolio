@@ -161,8 +161,6 @@ sections:
         label: Procreate
       - type: Label
         label: Photoshop
-      - type: Label
-        label: Swift
   - type: DividerSection
     styles:
       self:
