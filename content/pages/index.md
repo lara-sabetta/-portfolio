@@ -49,7 +49,7 @@ sections:
     type: HeroSection
     actions: []
   - type: TextSection
-    colors: colors-a
+    colors: colors-e
     variant: variant-b
     title: The Section Title
     subtitle: The section subtitle
