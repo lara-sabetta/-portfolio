@@ -164,8 +164,13 @@ sections:
     variant: variant-a
     subtitle: 'Contact:'
     colors: colors-f
-    text: |
+    text: |+
       [lara.sabetta@outlook.be](mailto:thisismyemail.@myemail.me)
+
+      0495/93.51.94
+
+
+
   - type: DividerSection
     styles:
       self:
