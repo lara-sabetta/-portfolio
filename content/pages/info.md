@@ -13,11 +13,24 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      Bonjour ! 
+
+
+      Je m’appelle Lara, j’ai 24 ans et je suis passionnée de gaming, de danse,
+      de voyages, et de création artistique sur iPad. Mon esprit créatif me
+      permet d’aborder les défis avec originalité et efficacité. Organisée et
+      rigoureuse, j’apprends rapidement et je m’adapte facilement à différentes
+      situations, que ce soit en travaillant seule ou en équipe.
+
+
+      En tant que future développeuse web front-end, je fais preuve d’une
+      attention particulière aux détails, d’un excellent sens de la
+      communication, et d’une grande capacité à résoudre des problèmes de
+      manière proactive. Curieuse et motivée, je suis prête à m'investir dans
+      des projets pour enrichir mes compétences et contribuer de manière
+      concrète.
+
     media:
       type: ImageBlock
       url: /images/about.jpg
