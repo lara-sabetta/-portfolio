@@ -156,7 +156,7 @@ sections:
       - type: Label
         label: 'Excel '
       - type: Label
-        label: Netlify
+        label: Word
       - type: Label
         label: Pancakes
       - type: Label
