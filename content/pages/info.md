@@ -158,7 +158,7 @@ sections:
       - type: Label
         label: Word
       - type: Label
-        label: Pancakes
+        label: Procreate
       - type: Label
         label: C++
       - type: Label
