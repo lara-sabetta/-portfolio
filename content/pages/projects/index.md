@@ -106,8 +106,7 @@ topSections:
       touche au web, au gaming, à la danse, et au dessin sur iPad. Actuellement
       en pleine formation en développement web front-end à l'IFAPME, je suis à
       la recherche d’un **stage rémunéré** pour mettre en pratique mes
-      compétences et contribuer à de vrais projets – et bien sûr, parce qu’on ne
-      va pas se mentir, **les factures ne se paient pas toutes seules !**
+      compétences et contribuer à de vrais projets.
 
 
       J’ai déjà quelques bases en développement web, acquises au cours d'une
@@ -133,11 +132,13 @@ topSections:
 
 
       Alors si vous cherchez quelqu’un de motivé, créatif et déterminé à
-      s’investir pleinement tout en s’assurant de payer ses factures, je serais
-      ravie de faire partie de votre équipe !
+      s’investir pleinement, je serais ravie de faire partie de votre équipe !
 
 
-      À bientôt,Lara
+      À bientôt,
+
+
+      Lara
     elementId: ''
     styles:
       self:
