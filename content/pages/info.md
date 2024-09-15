@@ -173,12 +173,6 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: TextSection
-    variant: variant-a
-    subtitle: 'Contact:'
-    colors: colors-f
-    text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
   - type: DividerSection
     styles:
       self:
@@ -191,6 +185,12 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
+  - type: TextSection
+    variant: variant-a
+    subtitle: 'Contact:'
+    colors: colors-f
+    text: |
+      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
   - type: FeaturedItemsSection
     colors: colors-f
     items:
