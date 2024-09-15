@@ -165,7 +165,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      [lara.sabetta@outlook.be](mailto:thisismyemail.@myemail.me)
   - type: DividerSection
     styles:
       self:
