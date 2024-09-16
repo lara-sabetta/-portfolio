@@ -104,7 +104,7 @@ topSections:
       text:
         textAlign: left
   - type: FeaturedItemsSection
-    title: Value propositions
+    title: 'Pourquoi prendre un stagiaire ? '
     items:
       - type: FeaturedItem
         title: Les stagiaires ne coûtent pas très cher.
