@@ -117,7 +117,7 @@ topSections:
         justifyContent: center
         borderWidth: 1
   - type: TextSection
-    colors: colors-d
+    colors: colors-a
     variant: variant-b
     title: The Section Title
     subtitle: The section subtitle
