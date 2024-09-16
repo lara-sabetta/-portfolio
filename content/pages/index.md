@@ -66,7 +66,7 @@ sections:
     variant: variant-b
     title: The Section Title
     subtitle: The section subtitle
-    text: <FontAwesomeIcon icon="fa-solid fa-phone" />
+    text: "\U0001F602\n"
     elementId: ''
     styles:
       self:
