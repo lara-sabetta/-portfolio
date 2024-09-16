@@ -64,7 +64,7 @@ sections:
   - type: TextSection
     colors: colors-e
     variant: variant-b
-    title: The Section Title
+    title: Me contacter
     subtitle: ''
     text: "✉️ lara.sabetta\\@outlook.be\n\n\U0001F4F1 0495/93.51.94\n\n\U0001F3E0 Seraing (Liège) \n"
     elementId: ''
