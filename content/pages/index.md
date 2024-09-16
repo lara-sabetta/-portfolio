@@ -66,7 +66,7 @@ sections:
     variant: variant-b
     title: The Section Title
     subtitle: The section subtitle
-    text: '<font-awesome-icon :icon="[''fas'', ''phone'']" />'
+    text: <FontAwesomeIcon icon="fa-solid fa-phone" />
     elementId: ''
     styles:
       self:
