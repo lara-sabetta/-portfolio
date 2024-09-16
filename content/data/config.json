@@ -15,8 +15,13 @@
             },
             {
                 "type": "Link",
-                "label": "Pourquoi moi ? ",
-                "url": "/projects"
+                "label": "Pourquoi moi ?",
+                "altText": "Pourquoi moi ? ",
+                "url": "/pourquoi",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "socialLinks": [
