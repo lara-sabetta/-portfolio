@@ -121,8 +121,8 @@ topSections:
     variant: variant-a
     title: Les avantages d'un stagiaire
     subtitle: ''
-    text: >+
-      Les stagiaires ne coûtent pas très cher.
+    text: >
+      **Les stagiaires ne coûtent pas très cher.**
 
 
       <!---->
@@ -142,7 +142,7 @@ topSections:
       <!---->
 
 
-      *   Un mois pour tester, sans engagement.
+      *   **Un mois pour tester, sans engagement.**
 
 
       <!---->
@@ -159,7 +159,7 @@ topSections:
       <!---->
 
 
-      *   Peut-être votre futur employé ? 
+      *   **Peut-être votre futur employé ?**
 
 
       <!---->
@@ -171,7 +171,6 @@ topSections:
       compétences spécifiques à votre entreprise, tout en l'accompagnant dans
       son développement professionnel. C'est une manière de façonner un futur
       talent qui comprendra parfaitement vos attentes et vos objectifs.
-
     elementId: ''
     styles:
       self:
