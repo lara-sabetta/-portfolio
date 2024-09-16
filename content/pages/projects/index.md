@@ -119,7 +119,7 @@ topSections:
   - type: TextSection
     colors: colors-a
     variant: variant-b
-    title: The Section Title
+    title: Les avantages d'un stagiaire
     subtitle: The section subtitle
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
