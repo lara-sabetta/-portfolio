@@ -119,12 +119,6 @@ topSections:
           Le salaire d'un stagiaire en première année de formation est d'environ
           660 € brut, mais il est bien sûr possible d'augmenter cette
           rémunération selon vos souhaits.
-        featuredImage:
-          type: ImageBlock
-          url: /images/Money.png
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
         actions: []
         elementId: ''
         styles:
