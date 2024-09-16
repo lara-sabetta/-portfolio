@@ -122,7 +122,7 @@ topSections:
     title: Les avantages d'un stagiaire
     subtitle: ''
     text: >+
-      *   Les stagiaires ne coûtent pas très cher.
+      Les stagiaires ne coûtent pas très cher.
 
 
       <!---->
@@ -142,7 +142,7 @@ topSections:
       <!---->
 
 
-      *   Un mois pour tester, sans engagement. 
+      *   Un mois pour tester, sans engagement.
 
 
       <!---->
@@ -159,8 +159,18 @@ topSections:
       <!---->
 
 
+      *   Peut-être votre futur employé ? 
 
 
+      <!---->
+
+
+      En accueillant un stagiaire, vous avez l'opportunité de le former selon
+      vos propres méthodes, vos valeurs et votre mode de fonctionnement. Vous
+      pouvez l'intégrer pleinement à votre équipe et lui transmettre les
+      compétences spécifiques à votre entreprise, tout en l'accompagnant dans
+      son développement professionnel. C'est une manière de façonner un futur
+      talent qui comprendra parfaitement vos attentes et vos objectifs.
 
     elementId: ''
     styles:
