@@ -29,7 +29,7 @@ sections:
     colors: colors-a
     variant: variant-a
     title: 'Les avantages d''un(e) stagiaire '
-    subtitle: The section subtitle
+    subtitle: ''
     text: >
       <p style="color: pink;">Les stagiaires ne coûtent pas très cher. </p>
 
