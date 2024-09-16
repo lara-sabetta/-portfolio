@@ -122,7 +122,7 @@ topSections:
     title: Les avantages d'un stagiaire
     subtitle: ''
     text: >+
-      **Les stagiaires ne coûtent pas très cher.**
+      **<p style="color: red;">Les stagiaires ne coûtent pas très cher.</p>**
 
 
       <!---->
@@ -173,11 +173,9 @@ topSections:
       talent qui comprendra parfaitement vos attentes et vos objectifs.
 
 
-
       Besoin de plus d'informations ? Visitez le <a
       href="https://www.ifapme.be/formons-ensemble" target="_blank">site</a> du
       centre de formation ou prenez contact avec eux !
-
 
     elementId: ''
     styles:
