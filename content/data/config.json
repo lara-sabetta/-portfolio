@@ -15,7 +15,7 @@
             },
             {
                 "type": "Link",
-                "label": "Learn more",
+                "label": "Pourquoi moi ?",
                 "altText": "",
                 "url": "/pourquoi",
                 "showIcon": false,
