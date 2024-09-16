@@ -30,7 +30,7 @@ sections:
     variant: variant-a
     title: 'Les avantages d''un(e) stagiaire '
     subtitle: ''
-    text: >
+    text: >+
       <p style="color: pink;">Les stagiaires ne coûtent pas très cher. </p>
 
 
@@ -83,8 +83,9 @@ sections:
 
 
       <p style="color: pink;">Besoin de plus d'informations ? Visitez le <a
-      href="https\://www\.ifapme.be/formons-ensemble" target="\_blank">site</a>
-      du centre de formation ou prenez contact avec eux !</p>
+      href="https://www.ifapme.be/formons-ensemble" target="\_blank">site</a> du
+      centre de formation ou prenez contact avec eux !</p>
+
     elementId: ''
     styles:
       self:
