@@ -66,7 +66,7 @@ sections:
     variant: variant-b
     title: Me contacter
     subtitle: ''
-    text: "✉️ <a href=\"mailto:lara.sabetta@outlook.be\">lara.sabetta@outlook.be</a>\n\n\n\U0001F4F1 0495/93.51.94\n\n\U0001F3E0 Seraing (Liège)\n"
+    text: "✉️ <a href=\"mailto:lara.sabetta@outlook.be\"><lara.sabetta@outlook.be></a>\n\n\U0001F4F1 <a href=\"tel:+32495935194\">0495/93.51.94\n\n</a>\n\n\U0001F3E0 Seraing (Liège)\n"
     elementId: ''
     styles:
       self:
