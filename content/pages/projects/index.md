@@ -107,7 +107,7 @@ topSections:
     title: Value propositions
     items:
       - type: FeaturedItem
-        title: I'm Fast
+        title: 'Les stagiaires, ça ne coute pas très cher '
         subtitle: ''
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
