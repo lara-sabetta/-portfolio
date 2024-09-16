@@ -118,7 +118,7 @@ topSections:
         borderWidth: 1
   - type: TextSection
     colors: colors-a
-    variant: variant-b
+    variant: variant-a
     title: Les avantages d'un stagiaire
     subtitle: ''
     text: >+
