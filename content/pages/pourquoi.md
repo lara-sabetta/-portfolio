@@ -30,13 +30,61 @@ sections:
     variant: variant-a
     title: The Section Title
     subtitle: The section subtitle
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      <p style="color: pink;">Les stagiaires ne coûtent pas très cher. </p>
+
+
+      <!---->
+
+
+      Un stagiaire rémunéré, c'est un employé motivé, avide d'apprendre et de
+      progresser. C'est une solution gagnant-gagnant : vous bénéficiez d'un
+      soutien à moindre coût, tandis que je peux subvenir à mes besoins tout en
+      me formant.
+
+
+      Le salaire d'un stagiaire en première année de formation est d'environ 660
+      € brut, mais il est bien sûr possible d'augmenter cette rémunération selon
+      vos souhaits.
+
+
+      <!---->
+
+
+      <p style="color: pink;">Un mois pour tester, sans engagement.</p>
+
+
+      <!---->
+
+
+      Lorsque vous accueillez un stagiaire en entreprise, vous bénéficiez d’un
+      mois d’essai sans engagement. Cela vous permet de tester ses compétences,
+      son adaptation à l'équipe et à l'environnement de travail, avant de
+      décider de poursuivre la collaboration. C'est une opportunité idéale pour
+      évaluer si le stagiaire correspond à vos attentes, sans obligation à long
+      terme.
+
+
+      <!---->
+
+
+      <p style="color: pink;">Peut-être votre futur employé ?</p>
+
+
+      <!---->
+
+
+      En accueillant un stagiaire, vous avez l'opportunité de le former selon
+      vos propres méthodes, vos valeurs et votre mode de fonctionnement. Vous
+      pouvez l'intégrer pleinement à votre équipe et lui transmettre les
+      compétences spécifiques à votre entreprise, tout en l'accompagnant dans
+      son développement professionnel. C'est une manière de façonner un futur
+      talent qui comprendra parfaitement vos attentes et vos objectifs.
+
+
+      <p style="color: pink;">Besoin de plus d'informations ? Visitez le <a
+      href="https\://www\.ifapme.be/formons-ensemble" target="\_blank">site</a>
+      du centre de formation ou prenez contact avec eux !</p>
     elementId: ''
     styles:
       self:
