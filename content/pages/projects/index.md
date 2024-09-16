@@ -122,7 +122,10 @@ topSections:
     title: Les avantages d'un stagiaire
     subtitle: ''
     text: >+
-      1.  Les stagiaires ne coûtent pas très cher.
+      *   Les stagiaires ne coûtent pas très cher.
+
+
+      <!---->
 
 
       Un stagiaire rémunéré, c'est un employé motivé, avide d'apprendre et de
@@ -134,6 +137,30 @@ topSections:
       Le salaire d'un stagiaire en première année de formation est d'environ 660
       € brut, mais il est bien sûr possible d'augmenter cette rémunération selon
       vos souhaits.
+
+
+      <!---->
+
+
+      *   Un mois pour tester, sans engagement. 
+
+
+      <!---->
+
+
+      Lorsque vous accueillez un stagiaire en entreprise, vous bénéficiez d’un
+      mois d’essai sans engagement. Cela vous permet de tester ses compétences,
+      son adaptation à l'équipe et à l'environnement de travail, avant de
+      décider de poursuivre la collaboration. C'est une opportunité idéale pour
+      évaluer si le stagiaire correspond à vos attentes, sans obligation à long
+      terme.
+
+
+      <!---->
+
+
+
+
 
     elementId: ''
     styles:
