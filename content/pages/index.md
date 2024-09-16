@@ -62,7 +62,7 @@ sections:
         justifyContent: center
         borderWidth: 1
   - type: TextSection
-    colors: colors-e
+    colors: colors-b
     variant: variant-b
     title: Me contacter
     subtitle: ''
