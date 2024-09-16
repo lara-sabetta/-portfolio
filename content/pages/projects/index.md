@@ -173,9 +173,8 @@ topSections:
       talent qui comprendra parfaitement vos attentes et vos objectifs.
 
 
-      Besoin de plus d'informations ? Visitez le <a
-      href="https://www.ifapme.be/formons-ensemble" target="_blank">site</a> du
-      centre de formation ou prenez contact avec eux !
+      <p style="color: pink;"> Besoin de plus d'informations ? Visitez le site
+      du centre de formation ou prenez contact avec eux ! </p>
 
     elementId: ''
     styles:
