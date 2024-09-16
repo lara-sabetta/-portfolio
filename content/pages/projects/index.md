@@ -109,10 +109,16 @@ topSections:
       - type: FeaturedItem
         title: 'Les stagiaires, ça ne coute pas très cher '
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >
+          Un stagiaire rémunéré, c'est un employé motivé, avide d'apprendre et
+          de progresser. C'est une solution gagnant-gagnant : vous bénéficiez
+          d'un soutien à moindre coût, tandis que je peux subvenir à mes besoins
+          tout en me formant.
+
+
+          Le salaire d'un stagiaire en première année de formation est d'environ
+          660 € brut, mais il est bien sûr possible d'augmenter cette
+          rémunération selon vos souhaits.
         featuredImage:
           type: ImageBlock
           url: /images/Money.png
