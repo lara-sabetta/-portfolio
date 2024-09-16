@@ -5,7 +5,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: 'Pourquoi moi ? '
+    title: À la recherche d’un stage rémunéré en développement web front-end
     subtitle: ''
     text: >-
       Start adding sections by clicking the + button on the page or through the
