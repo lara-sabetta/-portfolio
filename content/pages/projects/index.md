@@ -121,7 +121,7 @@ topSections:
     variant: variant-a
     title: Les avantages d'un stagiaire
     subtitle: ''
-    text: >
+    text: >+
       **Les stagiaires ne coûtent pas très cher.**
 
 
@@ -171,6 +171,14 @@ topSections:
       compétences spécifiques à votre entreprise, tout en l'accompagnant dans
       son développement professionnel. C'est une manière de façonner un futur
       talent qui comprendra parfaitement vos attentes et vos objectifs.
+
+
+
+      Besoin de plus d'informations ? Visitez le <a
+      href="https://www.ifapme.be/formons-ensemble" target="_blank">site</a> du
+      centre de formation ou prenez contact avec eux !
+
+
     elementId: ''
     styles:
       self:
