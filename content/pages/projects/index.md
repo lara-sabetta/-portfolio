@@ -107,7 +107,7 @@ topSections:
     title: Value propositions
     items:
       - type: FeaturedItem
-        title: 'Les stagiaires, ça ne coute pas très cher '
+        title: Les stagiaires ne coûtent pas très cher.
         subtitle: ''
         text: >
           Un stagiaire rémunéré, c'est un employé motivé, avide d'apprendre et
