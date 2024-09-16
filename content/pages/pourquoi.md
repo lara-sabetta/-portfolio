@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Empty page
+title: 'Pourquoi moi ? '
 sections:
   - type: TextSection
     colors: colors-f
