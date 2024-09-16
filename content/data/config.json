@@ -15,11 +15,6 @@
             },
             {
                 "type": "Link",
-                "label": "Pourquoi moi ? ",
-                "url": "/projects"
-            },
-            {
-                "type": "Link",
                 "label": "Learn more",
                 "altText": "",
                 "url": "/pourquoi",
