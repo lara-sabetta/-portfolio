@@ -121,13 +121,20 @@ topSections:
     variant: variant-b
     title: Les avantages d'un stagiaire
     subtitle: ''
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >+
+      1.  Les stagiaires ne coûtent pas très cher.
+
+
+      Un stagiaire rémunéré, c'est un employé motivé, avide d'apprendre et de
+      progresser. C'est une solution gagnant-gagnant : vous bénéficiez d'un
+      soutien à moindre coût, tandis que je peux subvenir à mes besoins tout en
+      me formant.
+
+
+      Le salaire d'un stagiaire en première année de formation est d'environ 660
+      € brut, mais il est bien sûr possible d'augmenter cette rémunération selon
+      vos souhaits.
+
     elementId: ''
     styles:
       self:
