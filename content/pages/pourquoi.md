@@ -28,7 +28,7 @@ sections:
   - type: TextSection
     colors: colors-a
     variant: variant-a
-    title: The Section Title
+    title: 'Les avantages d''un(e) stagiaire '
     subtitle: The section subtitle
     text: >
       <p style="color: pink;">Les stagiaires ne coûtent pas très cher. </p>
