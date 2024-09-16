@@ -122,7 +122,7 @@ topSections:
     title: Les avantages d'un stagiaire
     subtitle: ''
     text: >+
-      *   <p style="color: red;"></p>
+      <p style="color: red;">Les stagiaires ne coûtent pas très cher. </p>
 
 
       <!---->
