@@ -16,7 +16,7 @@
             {
                 "type": "Link",
                 "label": "Pourquoi moi ?",
-                "altText": "",
+                "altText": "Pourquoi moi ? ",
                 "url": "/pourquoi",
                 "showIcon": false,
                 "icon": "arrowRight",
